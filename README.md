@@ -9,6 +9,7 @@ Hola a todos soy Kevin Licon, un desarrollador apasionado en búsqueda de compre
 |---|---|---|
 | C# | 100🤘 | Dedicado |   
 | C++ | 80👌 | Estudiando | 
+| WEB | 80👌 | Estudiando | 
 
 <!---
 liconKevin/liconKevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
