@@ -2,7 +2,7 @@
 
 ## Work in progress
 
-- csvSave Bot for saving data using clean architecture
+- Casino game in console in c++
 
 ## Future projects
 
