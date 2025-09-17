@@ -2,7 +2,8 @@
 
 ## Work in progress
 
-- Casino game in console in c++
+- Casino game in console in C++
+- Loands Manager in C# using Windows forms
 
 ## Future projects
 
