@@ -1,11 +1,14 @@
+# About me
+
+Hi.
+
+I'm Kevin Licon
+
+I'm a software developer who loves to make small programs for big problems.
+
 # Projects
 
-## Work in progress
-
-- Loands Manager in C# using Windows forms
-- Game in godot
-
-## Future projects
+Mi vale - Application to track loans and manage clients
 
 
 
